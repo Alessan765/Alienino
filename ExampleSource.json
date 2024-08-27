@@ -7,6 +7,7 @@
             "marketplaceID": "0983542187",
             "developerName": "Example Developer",
             "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+            "localizedDescription": "This is a localized description for Minecraft.",
             "screenshots": [
                 "https://example.com/myapp_portrait_screenshot1.png"
             ],
@@ -21,4 +22,3 @@
         }
     ]
 }
-
