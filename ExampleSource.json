@@ -1,0 +1,24 @@
+{
+    "name": "AlienSource",
+    "apps": [
+        {
+            "name": "Minecraft",
+            "bundleIdentifier": "com.skgames.motor",
+            "marketplaceID": "0983542187",
+            "developerName": "Example Developer",
+            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+            "screenshots": [
+                "https://example.com/myapp_portrait_screenshot1.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "buildVersion": "60",
+                    "date": "2022-03-16T07:00:00-08:00",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/329vak373kh5ldjo17zv1/Traffic-Rider-Hack-No-Jailbreak-Cheats-1.98-Hacked-IPA-by-iOSGods.com.ipa?rlkey=kfhskksmatn11lpljo3mpxoza&st=jtm4ak7c&dl=1"
+                }
+            ]
+        }
+    ]
+}
+
