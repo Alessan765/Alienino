@@ -1,0 +1,157 @@
+{
+    "name": "AlienSource",
+    "subtitle": "Sorgente Aliena",
+    "description": "Una Sorgente Aliena",
+    "iconURL": "https://th.bing.com/th/id/OIG2.wc8v6UjnqZKS8Ajjs8rE?pid=ImgGn",
+    "headerURL": "https://img.freepik.com/vettori-premium/sfondo-galassia-realistico-con-stelle_23-2148965735.jpg",
+    "website": "https://example.com",
+    "tintColor": "#F54F32",
+    "featuredApps": [
+        "com.example.myapp"
+    ],
+    "apps": [
+        {
+            "name": "TrafficRiderMod",
+            "bundleIdentifier": "com.skgames.motor",
+            "marketplaceID": "0974651238",
+            "developerName": "SkGames",
+            "subtitle": "Un Gioco Di Moto",
+            "localizedDescription": "Questa è Una Mod Di Traffic Rider",
+            "iconURL": "https://play-lh.googleusercontent.com/590AflDt-hW2t85Cit_ODJPJdRiMMRn2cSF0vYNfsBpjm895x1zDy0npbD7IlDCvmNvI",
+            "tintColor": "#F54F32",
+            "category":"games",
+            "screenshots": [
+                "https://playbackbone.com/_next/image/?url=https%3A%2F%2Ffiles.backbon3.com%2Fcdn-cgi%2Fimage%2Fwidth%3D648%2Cheight%3D364%2Cfit%3Dscale-down%2Fcontent%2Foriginals%2Fdbe0fed8-a332-409a-9d44-e54775171285.jpg&w=640&q=75&dpl=dpl_9oRBiLLfx57X7qp9tzQznVz97rZ6",
+                "https://static.iwmbuzz.com/wp-content/uploads/2021/06/traffic-rider-game-to-show-off-your-driving-skills.jpg",
+                {
+                    "imageURL": "https://imag.malavida.com/mvimgbig/download-fs/traffic-rider-mod-26996-1.jpg",
+                    "width": 2556,
+                    "height": 1179
+                }
+            ],
+            "versions": [
+                {
+                    "version": "1.98",
+                    "buildVersion": "60",
+                    "date": "2022-05-01T09:00:00-08:00",
+                    "size": 240000000,
+                    "downloadURL": "https://www.dropbox.com/scl/fi/329vak373kh5ldjo17zv1/Traffic-Rider-Hack-No-Jailbreak-Cheats-1.98-Hacked-IPA-by-iOSGods.com.ipa?rlkey=kfhskksmatn11lpljo3mpxoza&st=jtm4ak7c&dl=1",
+                    "localizedDescription": "MOD",
+                    "minOSVersion": "12.0"
+                },
+                {
+                    "version": "1.1",
+                    "buildVersion": "61",
+                    "date": "2022-03-16T07:00:00-08:00",
+                    "size": 10000000,
+                    "downloadURL": "https://www.dropbox.com/scl/fi/329vak373kh5ldjo17zv1/Traffic-Rider-Hack-No-Jailbreak-Cheats-1.98-Hacked-IPA-by-iOSGods.com.ipa?rlkey=kfhskksmatn11lpljo3mpxoza&st=jtm4ak7c&dl=0",
+                    "localizedDescription": "MOD"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.siri"
+                ],
+                "privacy": {
+                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
+                    "NSCameraUsageDescription": "App uses camera to take photos.",
+                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
+                }
+            }
+        },
+        {
+            "name": "Another Example App",
+            "marketplaceID": "8746352094",
+            "bundleIdentifier": "com.example.anotherapp",
+            "developerName": "Example Developer",
+            "subtitle": "Another awesome app.",
+            "localizedDescription": "This is another awesome app only available on AltStore.",
+            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/SharkApp.png",
+            "tintColor": "#3660A2",
+            "screenshots": {
+                "iphone": [
+                    "https://example.com/anotherapp_portrait_1.png",
+                    "https://example.com/anotherapp_portrait_2.png",
+                    {
+                        "imageURL": "https://example.com/anotherapp_landscape.png",
+                        "width": 2556,
+                        "height": 1179
+                    }
+                ],
+                "ipad": [
+                    {
+                        "imageURL": "https://example.com/anotherapp_ipad_portrait.png",
+                        "width": 1668,
+                        "height": 2388
+                    },
+                    {
+                        "imageURL": "https://example.com/anotherapp_ipad_landscape.png",
+                        "width": 2388,
+                        "height": 1668
+                    }
+                ]
+            },
+            "versions": [
+                {
+                    "version": "1.2",
+                    "buildVersion": "62",
+                    "date": "2022-06-21T09:00:00-08:00",
+                    "downloadURL": "https://example.com/anotherapp_v1.2.ipa",
+                    "localizedDescription": "Bug fixes and performance improvements.",
+                    "size": 81514,
+                    "minOSVersion": "13.0"
+                },
+                {
+                    "version": "1.1",
+                    "buildVersion": "63",
+                    "date": "2022-04-15T10:00:00-08:00",
+                    "downloadURL": "https://example.com/anotherapp_v1.1.ipa",
+                    "localizedDescription": "New features!",
+                    "size": 81364,
+                    "minOSVersion": "13.0",
+                    "maxOSVersion": "16.3"
+                },
+                {
+                    "version": "1.0",
+                    "buildVersion": "64",
+                    "date": "2022-02-02T07:00:00-08:00",
+                    "downloadURL": "https://example.com/anotherapp_v1.0.ipa",
+                    "localizedDescription": "Initial release.",
+                    "size": 79821
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.developer.healthkit",
+                    "com.apple.developer.game-center"
+                ],
+                "privacy": {
+                    "NSLocalNetworkUsageDescription": "App scans the local network for nearby computers."
+                }
+            }
+        }
+    ],
+    "news": [
+        {
+            "title": "New Feature Announcement",
+            "identifier": "new_feature",
+            "caption": "Introducing a new feature in AltStore!",
+            "date": "2023-03-15",
+            "tintColor": "#5CA399",
+            "imageURL": "https://example.com/new_feature_image.png",
+            "notify": true,
+            "url": "https://example.com/new_feature_details"
+        },
+        {
+            "title": "App Update Available",
+            "identifier": "app_update",
+            "caption": "An update is available for My Example App.",
+            "date": "2023-03-10T10:00:00-07:00",
+            "tintColor": "#3660A2",
+            "imageURL": "https://example.com/app_update_image.png",
+            "notify": false,
+            "appID": "com.example.myapp"
+        }
+    ]
+}
