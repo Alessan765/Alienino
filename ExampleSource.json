@@ -1,25 +1,55 @@
 {
-    "name": "AlienSource",
+    "name": "Alien",
+    "subtitle": "All my apps in one place.",
+    "description": "Welcome to my source! Here you'll find all of my apps.",
+    "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
+    "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
+    "website": "https://example.com",
+    "tintColor": "#4185A9",
+    "featuredApps": [
+        "com.skgames.motor"
+    ],
     "apps": [
         {
-            "name": "Minecraft",
+            "name": "Traffic Rider Mod",
             "bundleIdentifier": "com.skgames.motor",
-            "marketplaceID": "0983542187",
-            "developerName": "Example Developer",
+            "marketplaceID": "0983425675",
+            "developerName": "SkGames",
+            "subtitle": "An awesome app.",
+            "localizedDescription": "This is an awesome app only available on AltStore.",
             "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
-            "localizedDescription": "This is a localized description for Minecraft.",
+            "tintColor": "#5CA399",
             "screenshots": [
-                "https://example.com/myapp_portrait_screenshot1.png"
+                "https://example.com/myapp_portrait_screenshot1.png",
+                "https://example.com/myapp_portrait_screenshot2.png",
+                {
+                    "imageURL": "https://example.com/myapp_landscape_screenshot.png",
+                    "width": 2556,
+                    "height": 1179
+                }
             ],
             "versions": [
                 {
-                    "version": "1.0",
+                    "version": "1.21.1",
                     "buildVersion": "60",
-                    "date": "2022-03-16T07:00:00-08:00",
-                    "size": 24000000,
-                    "downloadURL": "https://www.dropbox.com/scl/fi/329vak373kh5ldjo17zv1/Traffic-Rider-Hack-No-Jailbreak-Cheats-1.98-Hacked-IPA-by-iOSGods.com.ipa?rlkey=kfhskksmatn11lpljo3mpxoza&st=jtm4ak7c&dl=1"
+                    "date": "2022-05-01T09:00:00-08:00",
+                    "size": 120000000,
+                    "downloadURL": "https://www.dropbox.com/scl/fi/329vak373kh5ldjo17zv1/Traffic-Rider-Hack-No-Jailbreak-Cheats-1.98-Hacked-IPA-by-iOSGods.com.ipa?rlkey=kfhskksmatn11lpljo3mpxoza&st=tbcqi18p&dl=1",
+                    "localizedDescription": "New features and bug fixes.",
+                    "minOSVersion": "12.0"
                 }
-            ]
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.siri"
+                ],
+                "privacy": {
+                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
+                    "NSCameraUsageDescription": "App uses camera to take photos.",
+                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
+                }
+            }
         }
     ]
 }
