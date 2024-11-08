@@ -1,0 +1,157 @@
+{
+    "name": "Chufaro Source",
+    "subtitle": "Chufaroooo",
+    "description": "Welcome To Sandruuu and Chufaro Land",
+    "iconURL": "https://www.ansa.it/webimages/news_base/2018/5/15/050a1441f0dd7597bb2795a3b9ca5ac2.jpg",
+    "headerURL": "https://www.ansa.it/webimages/news_base/2018/5/15/050a1441f0dd7597bb2795a3b9ca5ac2.jpg",
+    "website": "https://Chufaro.com",
+    "tintColor": "#4185A9",
+    "featuredApps": [
+        "com.skgames.motor",
+        "com.mojang.minecraftpe"
+    ],
+    "apps": [
+        {
+            "name": "Traffic rider",
+            "bundleIdentifier": "com.skgames.motor",
+            "developerName": "SkGames",
+            "marketplaceID": "8976234012",
+            "subtitle": "Traffics Game",
+            "localizedDescription": "App A Caso",
+            "iconURL": "https://play-lh.googleusercontent.com/590AflDt-hW2t85Cit_ODJPJdRiMMRn2cSF0vYNfsBpjm895x1zDy0npbD7IlDCvmNvI",
+            "tintColor": "#5CA399",
+            "screenshots": [
+                "https://play-lh.googleusercontent.com/gW3HW9moPb5hI9vpsLGJoC-g3hBqyGbC9pJ59nruv7SfDpHCDFywg9ojnO-Hzmw1Nw=w526-h296-rw",
+                "https://play-lh.googleusercontent.com/gW3HW9moPb5hI9vpsLGJoC-g3hBqyGbC9pJ59nruv7SfDpHCDFywg9ojnO-Hzmw1Nw=w526-h296-rw",
+                {
+                    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ13O_8oulu2M0jQFkYCwk5zTaoHNjN0CT3w&s",
+                    "width": 2556,
+                    "height": 1179
+                }
+            ],
+            "versions": [
+                {
+                    "version": "1.98",
+                    "buildVersion": "60",
+                    "date": "2022-05-01T09:00:00-08:00",
+                    "size": 20000000,
+                    "downloadURL": "https://www.dropbox.com/scl/fi/329vak373kh5ldjo17zv1/Traffic.ipa?rlkey=kfhskksmatn11lpljo3mpxoza&st=3k4712yc&dl=1",
+                    "localizedDescription": "Bruh",
+                    "minOSVersion": "12.0"
+                },
+                {
+                    "version": "1.99",
+                    "buildVersion": "61",
+                    "date": "2022-03-16T07:00:00-08:00",
+                    "size": 10000000,
+                    "downloadURL": "https://www.dropbox.com/scl/fi/329vak373kh5ldjo17zv1/Traffic.ipa?rlkey=kfhskksmatn11lpljo3mpxoza&st=3k4712yc&dl=1",
+                    "localizedDescription": "Chufaro"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.siri"
+                ],
+                "privacy": {
+                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
+                    "NSCameraUsageDescription": "App uses camera to take photos.",
+                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
+                }
+            }
+        },
+        {
+            "name": "Minecraft",
+            "bundleIdentifier": "com.mojang.minecraftpe",
+            "marketplaceID": "8754629474",
+            "developerName": "Mojang",
+            "subtitle": "A Block App",
+            "localizedDescription": "Minecraft",
+            "iconURL": "https://static.pepper.it/threads/raw/VL04b/131398_1/re/768x768/qt/60/131398_1.jpg",
+            "tintColor": "#3660A2",
+            "screenshots": {
+                "iphone": [
+                    "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_Minecraft_image1600w.jpg",
+                    "https://store-images.s-microsoft.com/image/apps.608.13510798885735219.cf55aeca-e690-41e0-a88b-41b0e517a3be.c94e1bfa-1b68-4cf5-9954-f967168480b4?q=90&w=480&h=270",
+                    {
+                        "imageURL": "https://store-images.s-microsoft.com/image/apps.29741.14581193029730121.5999c68b-7fd8-48ec-b0cb-3e37e1d7ec03.38839d35-0654-480a-b909-a5107b3f9d14?q=90&w=480&h=270",
+                        "width": 2556,
+                        "height": 1179
+                    }
+                ],
+                "ipad": [
+                    {
+                        "imageURL": "https://hd2.tudocdn.net/1168270?w=1200&h=900",
+                        "width": 1668,
+                        "height": 2388
+                    },
+                    {
+                        "imageURL": "https://staticfanpage.akamaized.net/wp-content/uploads/sites/34/2023/10/minecraft_thumb-1200x675.jpg",
+                        "width": 2388,
+                        "height": 1668
+                    }
+                ]
+            },
+            "versions": [
+                {
+                    "version": "1.21.1",
+                    "date": "2022-06-21T09:00:00-08:00",
+                    "buildVersion": "62",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/h49yy6udsfcnahvlzn04e/Minecraft.ipa?rlkey=m6626cjxqu72vqv42i875abyg&st=eqkze6ka&dl=1",
+                    "localizedDescription": "Bug fixes and performance improvements.",
+                    "size": 81514,
+                    "minOSVersion": "13.0"
+                },
+                {
+                    "version": "1.21.2",
+                    "date": "2022-04-15T10:00:00-08:00",
+                    "buildVersion": "63",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/h49yy6udsfcnahvlzn04e/Minecraft.ipa?rlkey=m6626cjxqu72vqv42i875abyg&st=eqkze6ka&dl=1",
+                    "localizedDescription": "New features!",
+                    "size": 81364,
+                    "minOSVersion": "13.0",
+                    "maxOSVersion": "16.3"
+                },
+                {
+                    "version": "1.21.3",
+                    "date": "2022-02-02T07:00:00-08:00",
+                    "buildVersion": "64",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/h49yy6udsfcnahvlzn04e/Minecraft.ipa?rlkey=m6626cjxqu72vqv42i875abyg&st=eqkze6ka&dl=1",
+                    "localizedDescription": "Initial release.",
+                    "size": 79821
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.developer.healthkit",
+                    "com.apple.developer.game-center"
+                ],
+                "privacy": {
+                    "NSLocalNetworkUsageDescription": "App scans the local network for nearby computers."
+                }
+            }
+        }
+    ],
+    "news": [
+        {
+            "title": "Chufaro and Sandru Announcement",
+            "identifier": "new_feature",
+            "caption": "Introducing a new Chufaro Features",
+            "date": "2023-03-15",
+            "tintColor": "#5CA399",
+            "imageURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Freccom.org%2Fufo-e-alieni-7-validi-motivi-per-crederci%2F&psig=AOvVaw1CQcWyHcTwwT2KrvaovFNq&ust=1731192289375000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICemv3nzYkDFQAAAAAdAAAAABAI",
+            "notify": true,
+            "url": "https://usercontent.one/wp/reccom.org/wp-content/uploads/2019/12/alieni-1280x720-1.jpg"
+        },
+        {
+            "title": "Chufaro Upadte Avaible",
+            "identifier": "app_update",
+            "caption": "An update avaible for chufaro",
+            "date": "2023-03-10T10:00:00-07:00",
+            "tintColor": "#3660A2",
+            "imageURL": "https://www.repstatic.it/content/nazionale/img/2022/06/10/183916492-01b4c186-5ecc-4c4a-bf26-bf55ab925544.jpg",
+            "notify": false,
+            "appID": "com.mojang.minecraftpe"
+        }
+    ]
+}
