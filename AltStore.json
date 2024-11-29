@@ -15,7 +15,6 @@
             "name": "Traffic rider",
             "bundleIdentifier": "com.skgames.motor",
             "developerName": "SkGames",
-            "marketplaceID": "8976234012",
             "subtitle": "Traffics Game",
             "localizedDescription": "App A Caso",
             "iconURL": "https://play-lh.googleusercontent.com/590AflDt-hW2t85Cit_ODJPJdRiMMRn2cSF0vYNfsBpjm895x1zDy0npbD7IlDCvmNvI",
@@ -63,7 +62,6 @@
         {
             "name": "Minecraft",
             "bundleIdentifier": "com.mojang.minecraftpe",
-            "marketplaceID": "8754629474",
             "developerName": "Mojang",
             "subtitle": "A Block App",
             "localizedDescription": "Minecraft",
