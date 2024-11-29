@@ -31,7 +31,7 @@
             "versions": [
                 {
                     "version": "1.98",
-                    "buildVersion": "1",
+                    "buildVersion": "198",
                     "date": "2022-05-01T09:00:00-08:00",
                     "size": 20000000,
                     "downloadURL": "https://www.dropbox.com/scl/fi/329vak373kh5ldjo17zv1/Traffic.ipa?rlkey=kfhskksmatn11lpljo3mpxoza&st=3k4712yc&dl=1",
@@ -39,8 +39,8 @@
                     "minOSVersion": "12.0"
                 },
                 {
-                    "version": "1.99",
-                    "buildVersion": "2",
+                    "version": "1.98",
+                    "buildVersion": "9",
                     "date": "2022-03-16T07:00:00-08:00",
                     "size": 10000000,
                     "downloadURL": "https://www.dropbox.com/scl/fi/329vak373kh5ldjo17zv1/Traffic.ipa?rlkey=kfhskksmatn11lpljo3mpxoza&st=3k4712yc&dl=1",
