@@ -103,7 +103,7 @@
                 {
                     "version": "1.21.44",
                     "date": "2022-04-15T10:00:00-08:00",
-                    "buildVersion": "1.21.44.01",
+                    "buildVersion": "1",
                     "downloadURL": "https://www.dropbox.com/scl/fi/h49yy6udsfcnahvlzn04e/Minecraft.ipa?rlkey=m6626cjxqu72vqv42i875abyg&st=eqkze6ka&dl=1",
                     "localizedDescription": "New features!",
                     "size": 81364,
@@ -113,7 +113,7 @@
                 {
                     "version": "1.21.44",
                     "date": "2022-02-02T07:00:00-08:00",
-                    "buildVersion": "1.21.44.01",
+                    "buildVersion": "2",
                     "downloadURL": "https://www.dropbox.com/scl/fi/h49yy6udsfcnahvlzn04e/Minecraft.ipa?rlkey=m6626cjxqu72vqv42i875abyg&st=eqkze6ka&dl=1",
                     "localizedDescription": "Initial release.",
                     "size": 79821
