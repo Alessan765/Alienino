@@ -102,10 +102,34 @@
                     "version": "2024.11.16",
                     "date": "2024-11-16T09:00:00-08:00",
                     "buildVersion": "3",
-                    "downloadURL": "https://www.dropbox.com/scl/fi/cx7tuj70lhyzv6jrkdejt/AmongUs.ipa?rlkey=xe21t99u3ubdt0s0wwkxpknfc&st=dug9wj54&dl=1",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/2fm7ka02kr1kd6iuy1oay/AmongUs.ipa?rlkey=31o7mpyl233v6xb64mdrlgasr&st=5a0mbgg8&dl=1",
                     "localizedDescription": "Novità della versione: Nuove mappe e modalità di gioco!",
                     "size": 572000000,
                     "minOSVersion": "13.0"
+                              }
+            ]
+        },
+        {
+            "name": "Nulls Brawl",
+            "bundleIdentifier": "com.pubg.krmobile",
+            "developerName": "Nulls Team",
+            "subtitle": "Vivi un'esperienza di gioco frenetica in modalità 3v3 o battle royale, pensata per dispositivi mobili! Combatti in solitaria o assieme a degli amici in svariate modalità in meno di tre minuti.",
+            "localizedDescription": "LOTTA IN TANTISSIME MODALITÀ MULTIGIOCATORE- Arraffagemme (3v3): una battaglia a squadre dove la strategia è tutto. Raccogli e proteggi almeno 10 gemme per vincere, ma occhio: se ti eliminano, le gemme saranno preda facile per il nemico.- Sopravvivenza (singolo/in coppia): una battle royale dove conta solo sopravvivere e raccogliere potenziamenti per il tuo brawler. Lotta come un lupo solitario o in squadra con un amico e sopravvivi fino alla fine nella battle royale più spietata che ci sia. Chi vince prende tutto!- Footbrawl (3v3): cosa succede quando i brawler si danno allo sport? Semplice, nasce Footbrawl! Mostra a tutti le tue abilità calcistiche e segna due gol prima dell'altra squadra. Non ci sono cartellini rossi, quindi non aver paura a entrare duro sull'avversario!- Ricercati (3v3): da' la caccia agli avversari per collezionare stelle, ma vedi di non farti eliminare. La squadra con più stelle alla fine del match vince!- Rapina (3v3): difendi la cassaforte della tua squadra e fai a pezzi quella degli avversari. Sgattaiola tra i nascondigli e fatti strada a suon di colpi ed esplosioni fino al bottino dei nemici.- Eventi speciali: modalità speciali PvE e PvP a tempo limitato.- Sfida del torneo: buttati nel mondo dell'eSport targato Brawl Stars partecipando alle eliminatorie direttamente dal gioco!",
+            "iconURL": "https://tiermaker.com/images/media/template_images/2024/15338675/brawl-stars-app-icons-15338675/img4690.png",
+            "tintColor": "#7309b0",
+            "screenshots": [
+                "https://i.ytimg.com/vi/xjmK4zPOggE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDwjxH1R1qgUr52U4BIfvbMg59Dig",
+                "https://wallpapers.com/images/hd/superb-character-ensemble-brawl-stars-4k-pukiu6wo9eoqkhtk.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "58.279",
+                    "date": "2024-11-12T00:00:00-08:00",
+                    "buildVersion": "58.279",
+                    "size": 578000000,
+                    "downloadURL": "https://www.dropbox.com/scl/fi/vbsw9sy3h0pcbsxtgp9ny/PUBGMobile.ipa?rlkey=edqszbjs15gfwf1qszqkxz7zk&st=8tws87gf&dl=1",
+                    "localizedDescription": "∙ Nuovo sistema di azzeramento dei trofei∙ Nuovi brawler: Juju (mitica) e Shade (epico)",
+                    "minOSVersion": "11.0"
                 }
             ]
         }
