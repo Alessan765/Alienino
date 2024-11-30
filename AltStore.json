@@ -10,7 +10,7 @@
         "com.skgames.motor",
         "com.mojang.minecraftpe",
         "com.playrix.township-ios",
-        "com.innersloth.spacemafia",
+        "com.innersloth.amongus",
         "nt.nb.ios"
     ],
     "apps": [
@@ -91,7 +91,7 @@
         },
         {
             "name": "Among Us",
-            "bundleIdentifier": "com.innersloth.spacemafia",
+            "bundleIdentifier": "com.innersloth.amongus",
             "developerName": "Innersloth",
             "subtitle": "Diventa un membro dell'equipaggio su una navetta spaziale, ma attenzione! Un imbroglione si nasconde tra di voi!",
             "localizedDescription": "In Among Us, un gruppo di giocatori lavora insieme per completare compiti su una navetta spaziale, ma tra di loro si nasconde un traditore che cerca di sabotare la missione e uccidere gli altri membri del team. Chi è l'impostore? Sta a te scoprire chi è! Gioca con amici o sconosciuti in questa emozionante esperienza di tradimento e deduzione.",
