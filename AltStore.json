@@ -1,7 +1,7 @@
 {
     "name": "Mod Game By Ale765",
     "subtitle": "Giochi Moddati e Gratuiti",
-    "description": "Una Sorgente Con Qualche Gioco Moddato e Gratutito",
+    "description": "Una Sorgente Con Qualche Gioco Moddato e Gratuito",
     "iconURL": "https://media.istockphoto.com/id/664373658/it/foto/straniero.jpg?s=612x612&w=0&k=20&c=Mt-s-_cFVxiu8ceXY5SxQCRsfzK1SAgQD8R1GU_gepE=",
     "headerURL": "https://media.istockphoto.com/id/664373658/it/foto/straniero.jpg?s=612x612&w=0&k=20&c=Mt-s-_cFVxiu8ceXY5SxQCRsfzK1SAgQD8R1GU_gepE=",
     "website": "https://765.com",
@@ -13,11 +13,11 @@
     ],
     "apps": [
         {
-            "name": "Traffic rider",
+            "name": "Traffic Rider",
             "bundleIdentifier": "com.skgames.motor",
             "developerName": "SkGames",
-            "subtitle": "Un altro capolavoro dai creatori di Traffic Racer. Questa volta sei al volante di una moto in un'esperienza di gioco molto più dettagliata, ma che conserva anche il divertimento e la semplicità della vecchia scuola.",
-            "localizedDescription": "Traffic Rider porta il genere delle corse senza fine a un livello completamente nuovo, aggiungendo una modalità carriera completa, una prospettiva di vista in prima persona, una grafica migliore e suoni della moto registrati dal vivo. L'essenza delle corse scorrevoli da sala giochi persiste, ma nei panni della nuova generazione. Cavalca la tua moto sulle autostrade infinite sorpassando il traffico, esegui l'upgrade e acquista nuove moto per vincere le missioni in modalità carriera.",
+            "subtitle": "Un altro capolavoro dai creatori di Traffic Racer.",
+            "localizedDescription": "Traffic Rider porta il genere delle corse senza fine a un livello completamente nuovo, aggiungendo una modalità carriera completa, una prospettiva di vista in prima persona, una grafica migliore e suoni della moto registrati dal vivo. Cavalca la tua moto sulle autostrade infinite sorpassando il traffico, esegui l'upgrade e acquista nuove moto per vincere le missioni in modalità carriera.",
             "iconURL": "https://play-lh.googleusercontent.com/590AflDt-hW2t85Cit_ODJPJdRiMMRn2cSF0vYNfsBpjm895x1zDy0npbD7IlDCvmNvI",
             "tintColor": "#4b2387",
             "screenshots": [
@@ -40,20 +40,21 @@
             "name": "Minecraft",
             "bundleIdentifier": "com.mojang.minecraftpe",
             "developerName": "Mojang",
-            "subtitle": "Esplora mondi infiniti e realizza di tutto, dalla più semplice delle case al più maestoso dei castelli. Gioca in modalità Creativa con risorse illimitate o scava nelle profondità del mondo in modalità Sopravvivenza, fabbricando armi e armature per respingere creature pericolose.",
+            "subtitle": "Esplora mondi infiniti e realizza di tutto.",
             "localizedDescription": "Crea, esplora e sopravvivi o gioca con gli amici in tutti i diversi dispositivi. Scala montagne scoscese, scopri caverne intricate e estrai grandi vene di minerali. Scopri biomi di caverne rigogliose e di pietra calcarea. Illumina il tuo mondo con le candele per mostrare l'esperto speleologo e il maestro alpinista che sei!",
             "iconURL": "https://static.pepper.it/threads/raw/VL04b/131398_1/re/768x768/qt/60/131398_1.jpg",
+            "tintColor": "#2bc445",
             "screenshots": [
                 "https://www.minecraft.net/content/dam/minecraftnet/community/events/cy2024/minecraft-movie/C_Minecraft-Game.png",
                 "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70070000016597/0a33bcaba879403460afe2ff2aafaaefeede964e0fc11a430f71077867cc87f1"
-            "tintColor": "#2bc445",
+            ],
             "versions": [
                 {
                     "version": "1.21.44",
                     "date": "2024-11-01T09:00:00-08:00",
                     "buildVersion": "1.21.44.01",
                     "downloadURL": "https://www.dropbox.com/scl/fi/h49yy6udsfcnahvlzn04e/Minecraft.ipa?rlkey=m6626cjxqu72vqv42i875abyg&st=eqkze6ka&dl=1",
-                    "localizedDescription": "Novità della versione 1.21.44:Corretti svariati errori",
+                    "localizedDescription": "Novità della versione 1.21.44: Corretti svariati errori.",
                     "size": 700000000,
                     "minOSVersion": "13.0"
                 }
@@ -63,13 +64,13 @@
             "name": "Township-ByAle765",
             "bundleIdentifier": "com.playrix.township-ios",
             "developerName": "Playrix",
-            "subtitle": "Township è un mix unico di pianificazione urbana e agricoltura!",
-            "localizedDescription": "Costruite la città dei vostri sogni! Mietete il raccolto e lavoratelo nei vostri stabilimenti, per vendere i beni così prodotti per sviluppare la vostra città. Commerciate con isole lontane, aprite ristoranti, cinema e altri edifici per la comunità, per donare l'atmosfera che preferite alla vostra città. Esplorate la miniera per ottenere materie prime e trovare manufatti. Gestite lo zoo, prendendovi cura di animali provenienti da tutto il mondo.Siete pronti a costruire il vostro sogno? Allora non attendete un minuto di più",
+            "subtitle": "Township è un mix unico di pianificazione urbana!",
+            "localizedDescription": "Costruite la città dei vostri sogni! Mietete il raccolto e lavoratelo nei vostri stabilimenti, per vendere i beni così prodotti per sviluppare la vostra città. Commerciate con isole lontane, aprite ristoranti, cinema e altri edifici per la comunità. Esplorate la miniera per ottenere materie prime e trovare manufatti. Gestite lo zoo, prendendovi cura di animali provenienti da tutto il mondo.",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/0a/2a/550a2a9d-9a32-fdfb-bc5f-6ab02ae1bd01/AppIcon-0-0-85-220-0-4-0-2x.png/1200x630bb.png",
             "tintColor": "#c5cf11",
             "screenshots": [
                 "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/81/99/67/819967e0-ff3b-a1ef-0fc3-7b10f9cb7765/99ec670a-23f0-4d91-b72b-6e864e3c9e1d_6.png/643x0w.jpg",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d7/6a/01/d76a01e5-a182-e913-9b77-5cf993a5188f/f794bc0b-b8f4-4c61-a72b-201c78fcbc07_2048x2732_ts_aso_screenshot109_IT_v01_p2_as.png/643x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d7/6a/01/d76a01e5-a182-e913-9b77-5cf993a5188f/f794bc0b-b8f4-4c61-a72b-201c78fcbc07_2048x2732_ts_aso_screenshot109_IT_v01_p2_as.png/643x0w.jpg"
             ],
             "versions": [
                 {
@@ -77,7 +78,7 @@
                     "date": "2024-11-11T08:00:00-08:00",
                     "buildVersion": "23.0.2",
                     "downloadURL": "https://www.dropbox.com/scl/fi/6gaffp2yn79ryr5b9b9xn/Township.ipa?rlkey=jcy2896m05k4r8kmgm2xwedx4&st=4r7vqs7m&dl=1",
-                    "localizedDescription": "Preparati a un nuovo aggiornamento!Township si prepara al Natale!Nuove emozionanti spedizioni* Il misterioso villaggio di Innesport è insidiato da una setta che venera un mostro marino. Aiuta a scoprire i loro segreti, salva Ellen e ricevi una grande ricompensa ad avventura conclusa!* Riuscirà Theodore, scrittore, nonché vecchio amico di Richard, a diventare il nuovo Babbo Natale? Aiuta i personaggi a superare ardue prove e a sconfiggere un malvagio rivale, per vincere una fantastica ricompensa!Avventure stagionali* Yo-oh-oh! Township è stato preso d'assalto dai pirati! Comunque non preoccuparti, vogliono solo dare un nuovo volto alla città. Persino le mucche si vestiranno da corsare!* Nella nuova avventura stagionale ti aspettano tanti regali di Natale! Goditi le personalizzazioni a tema per treni e stazione e fai indossare alle tue pecore costumi a tema, mentre prepari la tua città per Natale!Inoltre* Imbarcati in una crociera natalizia, nelle nuove regate stagionali* Goditi lo stile invernale della città* Sfrutta appieno il Black Friday e i saldi natalizi",
+                    "localizedDescription": "Preparati a un nuovo aggiornamento! Township si prepara al Natale con eventi e sorprese!",
                     "size": 150000000,
                     "minOSVersion": "13.0"
                 }
