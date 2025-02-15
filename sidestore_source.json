@@ -1,0 +1,60 @@
+{
+  "name": "SideStore Source",
+  "subtitle": null,
+  "description": null,
+  "website": null,
+  "iconURL": null,
+  "headerURL": null,
+  "tintColor": null,
+  "apps": [
+    {
+      "name": "SideStore",
+      "bundleIdentifier": "com.SideStore.SideStore",
+      "developerName": "Unknown Developer",
+      "subtitle": null,
+      "localizedDescription": "My amazing app description.",
+      "iconURL": "https://picsum.photos/seed/com.sidestore.sidestore/512/512",
+      "tintColor": "FF9F0A",
+      "category": null,
+      "screenshots": [
+        {
+          "height": 2778,
+          "imageURL": "https://picsum.photos/seed/com.sidestore.sidestore_1/1284/2778",
+          "width": 1284
+        },
+        {
+          "imageURL": "https://picsum.photos/seed/com.sidestore.sidestore_2/1284/2778",
+          "width": 1284,
+          "height": 2778
+        },
+        {
+          "width": 1284,
+          "height": 2778,
+          "imageURL": "https://picsum.photos/seed/com.sidestore.sidestore_3/1284/2778"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.5.10-pr.812+2d17a45",
+          "date": "2025-02-15T22:30:36+01:00",
+          "localizedDescription": "Bug fixes and improvements.",
+          "downloadURL": "https://www.dropbox.com/scl/fi/rc7ee8vtvsvejyo8tzi3z/SideStore.ipa?rlkey=qbjgk5tizf3jwa2bxhz40xoqx&st=qwbnge36&dl=1",
+          "size": 9267842,
+          "sha256": "856c1b1790016bb845477090a4ad3fd01dc80a04322f2b91292e5736e148ef02",
+          "minOSVersion": "14.0"
+        }
+      ],
+      "appPermissions": {
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "SideStore uses the local network to find and communicate with your device."
+        },
+        "entitlements": [
+          "com.apple.developer.siri",
+          "aps-environment",
+          "get-task-allow",
+          "com.apple.security.application-groups"
+        ]
+      }
+    }
+  ]
+}
