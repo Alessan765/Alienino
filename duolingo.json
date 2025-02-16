@@ -10,7 +10,7 @@
     {
       "name": "Duolingo - iOSGods.com",
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
-      "marketplaceID": "9867341358", 
+      "marketplaceID": "570060128", 
       "developerName": "Unknown Developer",
       "subtitle": null,
       "localizedDescription": "My amazing app description.",
@@ -38,6 +38,7 @@
         {
           "version": "7.59.0",
           "date": "2025-02-16T11:36:42+01:00",
+          "buildVersion": "61",
           "localizedDescription": "Bug fixes and improvements.",
           "downloadURL": "https://www.dropbox.com/scl/fi/6zdu434odowt97f77e5b4/Duolingo.ipa?rlkey=ys8f0znqwk3px32wtud2hcvi3&st=sk6nu9av&dl=1",
           "size": 137199941,
