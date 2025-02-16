@@ -10,6 +10,7 @@
     {
       "name": "Duolingo - iOSGods.com",
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "marketplaceID": "9867341358", 
       "developerName": "Unknown Developer",
       "subtitle": null,
       "localizedDescription": "My amazing app description.",
