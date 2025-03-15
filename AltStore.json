@@ -79,10 +79,10 @@
             ],
             "versions": [
                 {
-                    "version": "23.0.2",
+                    "version": "26.0.0",
                     "date": "2024-11-11T08:00:00-08:00",
-                    "buildVersion": "23.0.2",
-                    "downloadURL": "https://www.dropbox.com/scl/fi/6gaffp2yn79ryr5b9b9xn/Township.ipa?rlkey=jcy2896m05k4r8kmgm2xwedx4&st=4r7vqs7m&dl=1",
+                    "buildVersion": "26.0.0",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/2gydgpy8pakwe34k4r4f8/Township.ipa?rlkey=4ipq8n5vtznd00odwf1gelwnf&st=0ulx3ckq&dl=1",
                     "localizedDescription": "Preparati a un nuovo aggiornamento!Township si prepara al Natale!Nuove emozionanti spedizioni* Il misterioso villaggio di Innesport è insidiato da una setta che venera un mostro marino. Aiuta a scoprire i loro segreti, affrontando missioni esplosive!",
                     "size": 152000000,
                     "minOSVersion": "13.0"
