@@ -129,11 +129,11 @@
             ],
             "versions": [
                 {
-                    "version": "58.279",
-                    "date": "2024-11-12T00:00:00-08:00",
-                    "buildVersion": "58.279",
-                    "size": 578000000,
-                    "downloadURL": "https://www.dropbox.com/scl/fi/oxbr5rw4nqmizc92463jz/Nulls-Brawl.ipa?rlkey=5yrcvzuov9oktvb5najyb4n7q&st=0knydptn&dl=1",
+                    "version": "60.420",
+                    "date": "2025-03-15T00:00:00-08:00",
+                    "buildVersion": "60.420",
+                    "size": 687000000,
+                    "downloadURL": "https://www.dropbox.com/scl/fi/f8rhcmzkhgk2yo8kpud04/Nulls-Brawl.ipa?rlkey=eg4eljv78j5cegiey2ge3c04s&st=zwltcpby&dl=1",
                     "localizedDescription": "∙ Nuovo sistema di azzeramento dei trofei∙ Nuovi brawler: Juju (mitica) e Shade (epico)",
                     "minOSVersion": "12.0"
                 }
