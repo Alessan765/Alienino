@@ -79,11 +79,21 @@
             ],
             "versions": [
                 {
-                    "version": "26.0.0",
-                    "date": "2025-03-15T08:00:00-08:00",
-                    "buildVersion": "26.0.0",
-                    "downloadURL": "https://www.dropbox.com/scl/fi/2gydgpy8pakwe34k4r4f8/Township.ipa?rlkey=4ipq8n5vtznd00odwf1gelwnf&st=0ulx3ckq&dl=1",
-                    "localizedDescription": "Preparati a un nuovo aggiornamento!Township si prepara al Natale!Nuove emozionanti spedizioni* Il misterioso villaggio di Innesport è insidiato da una setta che venera un mostro marino. Aiuta a scoprire i loro segreti, affrontando missioni esplosive!",
+                    "version": "29.0.0",
+                    "date": "2025-07-21T08:00:00-23:00",
+                    "buildVersion": "29.0.0",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/xvgncg53o95t6sw712gg3/Township.ipa?rlkey=gpz7aw6y4ch7ox2oga5rrotdh&st=5mqornwc&dl=1",
+                    "localizedDescription": "Preparati a un nuovo aggiornamento!
+Nuove avventure su Township!
+2 giorni fa
+Avventure stagionali
+* Tuffati nei miti antichi e nella cultura giapponese, all'interno di Township! Vinci risorse per sviluppare e decorare la tua città con la tessera Mitologica e quella Nipponica!
+Nuove avventure emozionanti
+* Richard ed Ellen partono per un'isola lontana per salvare rari pinguini dal ventre argentato dai contrabbandieri e da un vulcano in eruzione!
+* Un emozionante fine-settimana nel Selvaggio West si trasforma in uno scontro mortale per Richard ed Ellen, quando dei banditi rapiscono Rachel per chiedere un riscatto!
+Inoltre
+* Visita le Hawaii e la Costa Azzurra nelle nuove stagioni della regata!
+* Nuova struttura cittadina: la piscina a onde!",
                     "size": 152000000,
                     "minOSVersion": "13.0"
                 }
