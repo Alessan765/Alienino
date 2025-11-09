@@ -81,7 +81,7 @@
                 {
                     "version": "2.2",
                     "date": "2024-11-01T09:00:00-08:00",
-                    "buildVersion": "2.2.0.0",
+                    "buildVersion": "2.2",
                     "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
                     "localizedDescription": "Novità della versione 1.21.44:Corretti svariati errori",
                     "size": 570000000,
