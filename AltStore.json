@@ -65,6 +65,31 @@
             ]
         },
         {
+            "name": "Pojav Launcher",
+            "bundleIdentifier": "net.kdt.pojavlauncher",
+            "developerName": "Pojav",
+            "subtitle": "Esplora mondi infiniti e realizza di tutto, dalla più semplice delle case al più maestoso dei castelli. Gioca in modalità Creativa con risorse illimitate o scava nelle profondità del mondo in modalità Sopravvivenza, fabbricando armi e armature per respingere creature pericolose.",
+            "localizedDescription": "Crea, esplora e sopravvivi o gioca con gli amici in tutti i diversi dispositivi. Scala montagne scoscese, scopri caverne intricate e estrai grandi vene di minerali. Scopri biomi di caverne rigogliose e di pietra calcarea. Illumina il tuo mondo con le candele per mostrare l'esperto speleologo e il maestro alpinista che sei!",
+            "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzDhcbSIwGiaozFCrzVLKFrrSwRLTi8i03khLm-E22fuYHQY0iTpPkT-g&s=10",
+            "category": "games",
+            "screenshots": [
+                "https://www.minecraft.net/content/dam/minecraftnet/community/events/cy2024/minecraft-movie/C_Minecraft-Game.png",
+                "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70070000016597/0a33bcaba879403460afe2ff2aafaaefeede964e0fc11a430f71077867cc87f1"
+            ],
+            "tintColor": "#2bc445",
+            "versions": [
+                {
+                    "version": "2.2",
+                    "date": "2024-11-01T09:00:00-08:00",
+                    "buildVersion": "2.2.0.0",
+                    "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
+                    "localizedDescription": "Novità della versione 1.21.44:Corretti svariati errori",
+                    "size": 570000000,
+                    "minOSVersion": "13.0"
+                }
+            ]
+        },
+        {
             "name": "Township",
             "bundleIdentifier": "com.playrix.township-ios",
             "developerName": "Playrix",
