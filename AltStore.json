@@ -154,13 +154,21 @@
             ],
             "versions": [
                 {
-                    "version": "60.420",
+                    "version": "66.293",
                     "date": "2025-03-15T00:00:00-08:00",
-                    "buildVersion": "60.420",
+                    "buildVersion": "66.293",
                     "size": 687000000,
-                    "downloadURL": "https://www.dropbox.com/scl/fi/f8rhcmzkhgk2yo8kpud04/Nulls-Brawl.ipa?rlkey=eg4eljv78j5cegiey2ge3c04s&st=zwltcpby&dl=1",
-                    "localizedDescription": "∙ Nuovo sistema di azzeramento dei trofei∙ Nuovi brawler: Juju (mitica) e Shade (epico)",
-                    "minOSVersion": "12.0"
+                    "downloadURL": "https://www.dropbox.com/scl/fi/q05blhbktg5e1ymqoco7j/Nulls-Brawl.ipa?rlkey=1qgcg7bmoijmnve0vz0orqo86&st=o1rfckve&dl=1",
+                    "localizedDescription": "Novità:
+
+• Nuovi Brawler
+
+• Nuovi contenuti dalle Stagioni 48 e 49 (Sabbie del Tempo e Fate e Draghi)
+
+• Nuovi Gadget e Buffie
+
+• Le nuove modalità di gioco verranno aggiunte in seguito, man mano che saranno implementate; l'aggiornamento si caricherà automaticamente e non sarà necessario aggiornare il client di gioco.",
+                    "minOSVersion": "14.0"
                 }
             ]
         }
