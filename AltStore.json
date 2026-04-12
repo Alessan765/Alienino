@@ -159,15 +159,7 @@
                     "buildVersion": "66.293",
                     "size": 687000000,
                     "downloadURL": "https://www.dropbox.com/scl/fi/q05blhbktg5e1ymqoco7j/Nulls-Brawl.ipa?rlkey=1qgcg7bmoijmnve0vz0orqo86&st=o1rfckve&dl=1",
-                    "localizedDescription": "Novità:
-
-• Nuovi Brawler
-
-• Nuovi contenuti dalle Stagioni 48 e 49 (Sabbie del Tempo e Fate e Draghi)
-
-• Nuovi Gadget e Buffie
-
-• Le nuove modalità di gioco verranno aggiunte in seguito, man mano che saranno implementate; l'aggiornamento si caricherà automaticamente e non sarà necessario aggiornare il client di gioco.",
+                    "localizedDescription": "Novità:• Nuovi Brawler • Nuovi contenuti dalle Stagioni 48 e 49 (Sabbie del Tempo e Fate e Draghi) • Nuovi Gadget e Buffie • Le nuove modalità di gioco verranno aggiunte in seguito, man mano che saranno implementate • l'aggiornamento si caricherà automaticamente e non sarà necessario aggiornare il client di gioco.",
                     "minOSVersion": "14.0"
                 }
             ]
