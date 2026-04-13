@@ -45,7 +45,7 @@
             "developerName": "Mojang",
             "subtitle": "Esplora mondi infiniti e realizza di tutto, dalla più semplice delle case al più maestoso dei castelli. Gioca in modalità Creativa con risorse illimitate o scava nelle profondità del mondo in modalità Sopravvivenza, fabbricando armi e armature per respingere creature pericolose.",
             "localizedDescription": "Crea, esplora e sopravvivi o gioca con gli amici in tutti i diversi dispositivi. Scala montagne scoscese, scopri caverne intricate e estrai grandi vene di minerali. Scopri biomi di caverne rigogliose e di pietra calcarea. Illumina il tuo mondo con le candele per mostrare l'esperto speleologo e il maestro alpinista che sei!",
-            "iconURL": "https://static.pepper.it/threads/raw/VL04b/131398_1/re/768x768/qt/60/131398_1.jpg",
+            "iconURL": "https://static.wikia.nocookie.net/logopedia/images/f/f9/Minecraft_Bedrock_icon.svg/revision/latest/scale-to-width-down/250?cb=20230924021517",
             "category": "games",
             "screenshots": [
                 "https://www.minecraft.net/content/dam/minecraftnet/community/events/cy2024/minecraft-movie/C_Minecraft-Game.png",
@@ -65,26 +65,26 @@
             ]
         },
         {
-            "name": "Pojav Launcher",
-            "bundleIdentifier": "net.kdt.pojavlauncher",
-            "developerName": "Pojav",
+            "name": "Amethyst Launcher",
+            "bundleIdentifier": "org.angelauramc.amethyst",
+            "developerName": "Angel Amethyst",
             "subtitle": "Esplora mondi infiniti e realizza di tutto, dalla più semplice delle case al più maestoso dei castelli. Gioca in modalità Creativa con risorse illimitate o scava nelle profondità del mondo in modalità Sopravvivenza, fabbricando armi e armature per respingere creature pericolose.",
             "localizedDescription": "Crea, esplora e sopravvivi o gioca con gli amici in tutti i diversi dispositivi. Scala montagne scoscese, scopri caverne intricate e estrai grandi vene di minerali. Scopri biomi di caverne rigogliose e di pietra calcarea. Illumina il tuo mondo con le candele per mostrare l'esperto speleologo e il maestro alpinista che sei!",
-            "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzDhcbSIwGiaozFCrzVLKFrrSwRLTi8i03khLm-E22fuYHQY0iTpPkT-g&s=10",
+            "iconURL": "https://github.com/AngelAuraMC/Amethyst-iOS/blob/main/Natives/resources/AppIcon-Light60x60@2x.png?raw=true",
             "category": "games",
             "screenshots": [
                 "https://www.minecraft.net/content/dam/minecraftnet/community/events/cy2024/minecraft-movie/C_Minecraft-Game.png",
                 "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70070000016597/0a33bcaba879403460afe2ff2aafaaefeede964e0fc11a430f71077867cc87f1"
             ],
-            "tintColor": "#2bc445",
+            "tintColor": "#ff3c00",
             "versions": [
                 {
-                    "version": "2.2",
-                    "date": "2024-11-01T09:00:00-08:00",
-                    "buildVersion": "2.2",
-                    "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
-                    "localizedDescription": "Novità della versione 1.21.44:Corretti svariati errori",
-                    "size": 570000000,
+                    "version": "26.1.2",
+                    "date": "2026-04-12T09:00:00-08:00",
+                    "buildVersion": "26.1.2",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/vjy128rbnrho44nih0dn5/Amethyst-Launcher.ipa?rlkey=m5nveyo9ghx0pv3yjmee3hbai&st=90jvhx91&dl=1",
+                    "localizedDescription": "Risoluzione Exploit: È stata corretta una vulnerabilità di sicurezza critica (exploit) non divulgata nei dettagli per proteggere i server.Miglioramenti Interfaccia (UI):Le caselle di controllo (checkbox) sono state ottimizzate: ora i tooltip (i messaggi di aiuto) appaiono solo se il testo è troppo lungo e supera le due righe.Nella schermata di segnalazione dei giocatori ("Report Player"), la casella di conferma ora mostra correttamente il testo descrittivo.Compatibilità: Questa versione è pienamente compatibile con i server che utilizzano la 26.1 e la 26.1.1.",
+                    "size": 142000000,
                     "minOSVersion": "13.0"
                 }
             ]
