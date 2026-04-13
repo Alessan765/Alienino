@@ -83,7 +83,7 @@
                     "date": "2026-04-12T09:00:00-08:00",
                     "buildVersion": "26.1.2",
                     "downloadURL": "https://www.dropbox.com/scl/fi/vjy128rbnrho44nih0dn5/Amethyst-Launcher.ipa?rlkey=m5nveyo9ghx0pv3yjmee3hbai&st=90jvhx91&dl=1",
-                    "localizedDescription": "Risoluzione Exploit: È stata corretta una vulnerabilità di sicurezza critica (exploit) non divulgata nei dettagli per proteggere i server.Miglioramenti Interfaccia (UI):Le caselle di controllo (checkbox) sono state ottimizzate: ora i tooltip (i messaggi di aiuto) appaiono solo se il testo è troppo lungo e supera le due righe.Nella schermata di segnalazione dei giocatori ("Report Player"), la casella di conferma ora mostra correttamente il testo descrittivo.Compatibilità: Questa versione è pienamente compatibile con i server che utilizzano la 26.1 e la 26.1.1.",
+                    "localizedDescription": "Risoluzione Exploit: È stata corretta una vulnerabilità di sicurezza critica (exploit) non divulgata nei dettagli per proteggere i server.Miglioramenti Interfaccia (UI):Le caselle di controllo (checkbox) sono state ottimizzate: ora i tooltip (i messaggi di aiuto) appaiono solo se il testo è troppo lungo e supera le due righe.Nella schermata di segnalazione dei giocatori (Report Player), la casella di conferma ora mostra correttamente il testo descrittivo.Compatibilità: Questa versione è pienamente compatibile con i server che utilizzano la 26.1 e la 26.1.1.",
                     "size": 142000000,
                     "minOSVersion": "13.0"
                 }
